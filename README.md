@@ -65,7 +65,7 @@ For when the debate gets serious. Multiple users submit their choices and justif
 ---
 
 Visuals & Demo 📸
-<div align="center"> <table border="0"> <tr> <td width="33%"> <img src="./assets/screenshots/landing.png" width="100%" alt="Landing Page"> <p align="center"><b>End the Overthinking</b></p> </td> <td width="33%"> <img src="./assets/screenshots/dice_roll.png" width="100%" alt="Dice Roll Mode"> <p align="center"><b>Dice Roll Mode</b></p> </td> <td width="33%"> <img src="./assets/screenshots/rps_duel.png" width="100%" alt="RPS Duel Mode"> <p align="center"><b>RPS Duel (Real-time)</b></p> </td> </tr> <tr> <td colspan="3" align="center">
+<div align="center"> <table border="0"> <tr> <td width="25%"> <img src="./assets/screenshots/landing.png" width="100%" alt="Landing Page"> <p align="center"><b>End the Overthinking</b></p> </td> <td width="25%"> <img src="./assets/screenshots/dice_roll.png" width="100%" alt="Dice Roll Mode"> <p align="center"><b>Dice Roll Mode</b></p> </td> <td width="25%"> <img src="./assets/screenshots/rps_duel.png" width="100%" alt="RPS Duel Mode"> <p align="center"><b>RPS Duel (Real-time)</b></p> </td> <td width="25%"> <img src="./assets/screenshots/verdict.png" width="100%" alt="AI Verdict Mode"> <p align="center"><b>AI Verdict (Gemini)</b></p> </td> </tr> <tr> <td colspan="4" align="center">
 
 
 <img src="./assets/screenshots/demo.gif" width="50%" alt="App Demo GIF"> <p align="center"><i>AI Arbiter (Verdict Mode) in action ⚡</i></p> </td> </tr> </table> </div>
