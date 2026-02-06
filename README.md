@@ -73,7 +73,11 @@ For when the debate gets serious. Multiple users submit their choices and justif
          <td width="150" align="center"> <img src="./assets/screenshots/rps_duel.png" width="150" alt="RPS Static"><sub>RPS UI</sub> </td> 
          <td width="150" align="center"> <img src="./assets/screenshots/rps_demo.gif" width="150" alt="RPS GIF"> <sub>RPS Demo</sub> </td> 
          <td width="150" align="center"> <img src="./assets/screenshots/verdict.png" width="150" alt="Verdict Static"> <sub>Verdict UI</sub> </td> 
-         <td width="150" align="center"> <img src="./assets/screenshots/verdict_demo.gif" width="150" alt="Verdict GIF"><sub>Verdict Demo</sub> </td> </tr> </table> 
+         <td width="150" align="center"> <img src="./assets/screenshots/verdict_demo.gif" width="150" alt="Verdict GIF"><sub>Verdict Demo</sub> </td> </tr> 
+      <tr>
+         <th colspan="2" align="center"> Dice Mode </th>
+      </tr>
+   </table> 
 </div>
 
 ---
