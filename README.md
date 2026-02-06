@@ -70,16 +70,16 @@ For when the debate gets serious. Multiple users submit their choices and justif
       <tr> 
          <td colspan="2" align="center"><b>Dice Mode</b></td> </tr> 
          <td width="200"> <img src="./assets/screenshots/dice_roll.png" width="200" alt="Dice Roll"> <p align="center"><b>Dice Mode</b></p> </td> 
-         <td colspan="50%"> <img src="./assets/screenshots/dice_demo.gif" width="100%" alt="Dice Roll GIF"> </td> 
+         <td colspan="200"> <img src="./assets/screenshots/dice_demo.gif" width="200" alt="Dice Roll GIF"> </td> 
       <tr> <td colspan="2" align="center"><b>Rock-Paper-Scissor Mode</b></td> </tr> 
          <tr> 
-            <td width="50%"> <img src="./assets/screenshots/rps_duel.png" width="100%" alt="RPS Duel"> <p align="center"><b>RPS Mode</b></p> </td> 
-            <td width="50%"> <img src="./assets/screenshots/rps_demo.gif" width="100%" alt="RPS Duel GIF"> </td> 
+            <td width="200"> <img src="./assets/screenshots/rps_duel.png" width="100%" alt="RPS Duel"> <p align="center"><b>RPS Mode</b></p> </td> 
+            <td width="200"> <img src="./assets/screenshots/rps_demo.gif" width="100%" alt="RPS Duel GIF"> </td> 
          </td> 
       <tr> <td colspan="2" align="center"><b>AI Verdict Mode</b></td> </tr> 
          <tr> 
-            <td width="50%"> <img src="./assets/screenshots/verdict.png" width="100%" alt="AI Verdict"> <p align="center"><b>Verdict Mode</b></p> </td> </tr> 
-            <td width="50%"> <img src="./assets/screenshots/verdict_demo.gif" width="100%" alt="AI Verdict GIF"> 
+            <td width="200"> <img src="./assets/screenshots/verdict.png" width="200" alt="AI Verdict"> <p align="center"><b>Verdict Mode</b></p> </td> </tr> 
+            <td width="200"> <img src="./assets/screenshots/verdict_demo.gif" width="200" alt="AI Verdict GIF"> 
             </td> 
       </tr> 
    </table> 
