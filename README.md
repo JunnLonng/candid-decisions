@@ -68,12 +68,12 @@ For when the debate gets serious. Multiple users submit their choices and justif
 <div align="center"> 
    <table border="0"> 
       <tr> 
-         <td width="150" align="center"> <img src="./assets/screenshots/dice_roll.png" width="150" alt="Dice Static"></td> 
-         <td width="150" align="center"> <img src="./assets/screenshots/dice_demo.gif" width="150" alt="Dice GIF"></td> 
-         <td width="150" align="center"> <img src="./assets/screenshots/rps_duel.png" width="150" alt="RPS Static"></td> 
-         <td width="150" align="center"> <img src="./assets/screenshots/rps_demo.gif" width="150" alt="RPS GIF"></td> 
-         <td width="150" align="center"> <img src="./assets/screenshots/verdict.png" width="150" alt="Verdict Static"></td> 
-         <td width="150" align="center"> <img src="./assets/screenshots/verdict_demo.gif" width="150" alt="Verdict GIF"></td> </tr> 
+         <td width="150" align="center"> <img src="./assets/screenshots/dice_roll.png" width="100%" alt="Dice Static"></td> 
+         <td width="150" align="center"> <img src="./assets/screenshots/dice_demo.gif" width="100%" alt="Dice GIF"></td> 
+         <td width="150" align="center"> <img src="./assets/screenshots/rps_duel.png" width="100%" alt="RPS Static"></td> 
+         <td width="150" align="center"> <img src="./assets/screenshots/rps_demo.gif" width="100%" alt="RPS GIF"></td> 
+         <td width="150" align="center"> <img src="./assets/screenshots/verdict.png" width="100%" alt="Verdict Static"></td> 
+         <td width="150" align="center"> <img src="./assets/screenshots/verdict_demo.gif" width="100%" alt="Verdict GIF"></td> </tr> 
       <tr>
          <th colspan="2" align="center"> Dice Mode </th>
          <th colspan="2" align="center"> Rock-Paper-Scissor Mode </th>
