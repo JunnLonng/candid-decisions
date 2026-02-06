@@ -85,9 +85,9 @@ For when the debate gets serious. Multiple users submit their choices and justif
 ---
 
 ## 🛡️ Security & Privacy
-- **Candid Data**: Your choices and justifications are processed in-memory and are never stored permanently.
-- **Ephemeral Sessions**: Real-time game sessions are cleaned up immediately after a decision is reached.
-- **AI Privacy**: Context sent to the Gemini API is for one-time processing and is not archived by the application.
+- **Temporary Data Storage**: Game states and AI justifications are temporarily stored in Supabase to facilitate real-time synchronization and processing.
+- **Auto-Cleanup**: Data associated with RPS duels and AI Verdicts is programmatically deleted from the database immediately after a session concludes or a decision is reached.
+- **AI Privacy**: Data sent to the Gemini API is used solely for one-time inference and is never permanently archived or used within the application's scope.
 
 ---
 
