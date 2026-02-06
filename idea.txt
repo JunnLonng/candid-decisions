@@ -1,0 +1,25 @@
+idea:
+Candid Decisions - a stress-free app to help people make choices and lighten their mood.
+
+main menu: top row and second row (main focus, should occupy at least 75% of the screen)
+
+Top row: stats recorder: username, how many times did "indecisiveness" occurred = no. of times the user used the app. certain number = categories te levelness of indecisiveness of the user. Settings button.
+
+Second row: display the different "game" modes with a large icon for each mode, allowing users to swipe left and right to choose the mode. For now focus on the dice roll. Allow users to swipe the modes but grey out the rest other than dice roll. The large icon must have left and right arrows to visually tell user that there are different modes. 
+
+Different "game" mode:
+"Game" mode: Dice roll (single player) Name: <something that describes user leave it to the app to choose 6 restaurants for them but unable to think of a suitable name yet) - focus
+"Game" mode: Dice roll (single player) Name: <something that describes user can input 6 restaurant of their choice but unable to think of a suitable name yet)- future development, grey out first
+"Game" mode: rock paper scissor stone (two players) - future development, grey out first
+
+Dice Roll:
+when click on the mode, show a waiting, pull the current location, show the current location, and use current location and generate 6 restaurants/eateries
+the screen should now only display the dice, the main menu should not be shown.
+Show the user what are the 6 choices found and assign each choice into a number between 1 to 6
+use a dice to roll / shake phone to roll to attract other potential user attention?
+
+when rolling -> need to show animation of the dice rolling. (possible to adjust intensity of the dice roll based on how hard the user shake their phone?
+result: the dice roll to the specific number show reviews, click to navigate, click to book (if any) - for affiliate 
+Allow user to either exit or roll the dice again (based on the initial 6 choices)
+
+UI - Should be as lively as possible, colour theme should adopt the psychology consideration behind like mcdonald's where red and orange makes people feel hungry. 
